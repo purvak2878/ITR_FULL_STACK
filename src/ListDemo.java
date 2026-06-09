@@ -6,7 +6,7 @@ public class ListDemo {
     public static void main(String[] args) {
 
         List<String> animals = new ArrayList<>();
-
+        //animal list
         animals.add("Lion");
         animals.add("Tiger");
         animals.add("Elephant");

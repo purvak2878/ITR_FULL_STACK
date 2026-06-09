@@ -5,7 +5,7 @@ import java.util.List;
 class polymorphismDemo{
 
     public static void manageAnimals(List<String> animals) {
-
+        //animal list
         animals.add("Lion");
         animals.add("Tiger");
         animals.add("Elephant");
