@@ -1,0 +1,35 @@
+OUTPUT OF ListDemo.java:-
+Initial Animal List:
+[Lion, Tiger, Elephant, Monkey, Zebra]
+
+Contains Tiger? true
+Animal at index 1: Tiger
+Total Animals: 5
+
+Final Animal List:
+Lion
+Tiger
+Giraffe
+Panda
+Zebra
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+OUTPUT OF PolymorphismDemo.java:-
+List Type: ArrayList
+Animals in Zoo:
+Lion
+Tiger
+Elephant
+Giraffe
+Zebra
+Total Animals: 5
+Contains Tiger? true
+
+List Type: LinkedList
+Animals in Zoo:
+Lion
+Tiger
+Elephant
+Giraffe
+Zebra
+Total Animals: 5
+Contains Tiger? true
