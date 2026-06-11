@@ -12,7 +12,7 @@ Tiger
 Giraffe
 Panda
 Zebra
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------
 OUTPUT OF PolymorphismDemo.java:-
 List Type: ArrayList
 Animals in Zoo:
@@ -33,3 +33,37 @@ Giraffe
 Zebra
 Total Animals: 5
 Contains Tiger? true
+-------------------------------------------------------------
+OUTPUT OF HashSetDemoDemo.java:-
+[Nagpur, Pune, Mumbai, Goregoan]
+-------------------------------------------------------------
+OUTPUT OF LinkedHashSetDemoDemo.java:-
+[431603, 431703, 431602]
+------------------------------------------------------------
+OUTPUT OF TreeSetDemoDemo.java:-
+[Jadhav, Kulkarni, Patil, Sharma, Shinde]
+------------------------------------------------------------
+OUTPUT OF HashMapDemoDemo.java:-
+Student with Roll No 102: Riya
+
+Student Records:
+101 : Purva
+102 : Riya
+103 : Sneha
+-----------------------------------------------------------
+OUTPUT OF LinkedHashMapDemoDemo.java:-
+Employee ID 202: Neha
+
+Employee Records:
+201 : Rahul
+202 : Neha
+203 : Aman
+-----------------------------------------------------------
+OUTPUT OF TreeMapDemoDemo.java:-
+Patient ID 301: Anjali
+
+Patient Records:
+301 : Anjali
+304 : Rohit
+305 : Karan
+-----------------------------------------------------------
