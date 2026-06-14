@@ -1,0 +1,87 @@
+===== Movie Ticket Booking System =====
+1. Add Movie
+2. View Movies
+3. Book Ticket
+4. View Customers
+5. Sort Movies
+6. Shuffle Movies
+7. Exit
+Enter Choice: 1
+
+Enter Movie Name: Jawan
+Movie Added Successfully!
+
+===== Movie Ticket Booking System =====
+Enter Choice: 1
+
+Enter Movie Name: Pushpa
+Movie Added Successfully!
+
+===== Movie Ticket Booking System =====
+Enter Choice: 1
+
+Enter Movie Name: Animal
+Movie Added Successfully!
+
+===== Movie Ticket Booking System =====
+Enter Choice: 2
+
+Movie List:
+Jawan
+Pushpa
+Animal
+
+===== Movie Ticket Booking System =====
+Enter Choice: 3
+
+Enter Customer Name: Purva
+Ticket Booked Successfully!
+
+===== Movie Ticket Booking System =====
+Enter Choice: 3
+
+Enter Customer Name: Rahul
+Ticket Booked Successfully!
+
+===== Movie Ticket Booking System =====
+Enter Choice: 4
+
+Customer List:
+Purva
+Rahul
+
+===== Movie Ticket Booking System =====
+Enter Choice: 5
+
+Movies Sorted Successfully!
+
+===== Movie Ticket Booking System =====
+Enter Choice: 2
+
+Movie List:
+Animal
+Jawan
+Pushpa
+
+===== Movie Ticket Booking System =====
+Enter Choice: 6
+
+Movies Shuffled Successfully!
+
+===== Movie Ticket Booking System =====
+Enter Choice: 2
+
+Movie List:
+Pushpa
+Animal
+Jawan
+
+===== Movie Ticket Booking System =====
+Enter Choice: 9
+
+Invalid Choice!
+
+===== Movie Ticket Booking System =====
+Enter Choice: 7
+
+Thank You!

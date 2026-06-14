@@ -59,7 +59,7 @@ Employee Records:
 202 : Neha
 203 : Aman
 -----------------------------------------------------------
-OUTPUT OF TreeMapDemoDemo.java:-
+OUTPUT OF TreeMapDemo.java:-
 Patient ID 301: Anjali
 
 Patient Records:
@@ -67,3 +67,19 @@ Patient Records:
 304 : Rohit
 305 : Karan
 -----------------------------------------------------------
+OUTPUT OF IteratorDemo.java:-
+Using Iterator:
+ID: 101, Name: Purva
+ID: 102, Name: Rahul
+ID: 103, Name: Sneha
+
+Using ListIterator (Forward):
+ID: 101, Name: Purva
+ID: 102, Name: Rahul
+ID: 103, Name: Sneha
+
+Using ListIterator (Backward):
+ID: 103, Name: Sneha
+ID: 102, Name: Rahul
+ID: 101, Name: Purva
+-------------------------------------------------------
