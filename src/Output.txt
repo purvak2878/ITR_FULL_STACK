@@ -83,3 +83,9 @@ ID: 103, Name: Sneha
 ID: 102, Name: Rahul
 ID: 101, Name: Purva
 -------------------------------------------------------
+OUTPUT OF FuntionalInterfacesDemo.java:-
+true
+false
+Supplier:Java
+consumer: HelloPurva
+Function: Square = 25
